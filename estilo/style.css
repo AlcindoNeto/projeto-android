@@ -84,7 +84,7 @@ main{
 main p{
     margin: 15px 0px;
     text-align: justify;
-    text-indent: 2em;
+    text-indent: 1em;
     line-height: 2em;
     font-size: 1em;
 }
